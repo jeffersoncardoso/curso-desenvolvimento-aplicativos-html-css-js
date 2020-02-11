@@ -1,0 +1,40 @@
+1ª aula - Apresentações
+		- Falar de mim
+		- Falar sobre o que é o curso
+		- Pedir para todos se apresentarem
+1ª aula - Nivelamento HTML, CSS e Javascript
+		- Como é dividido um site
+		- O que é HTML
+		- O que é CSS
+		- O que é Javascript
+		- Componentes
+		- Javascript moderno
+			Declaração de variaveis (let, const)
+			Funções anonimas
+			Arrow functions
+			Classes
+			Eventos
+			Modulos
+			Promises
+			async e await
+			Gerenciamento de dependencias
+			Frameworks
+		- Prática
+	
+
+2ª aula - Introdução a PWA
+	- Manifest
+	- Service Worker
+2ª aula - Prática com Vue CLI
+	- Criar um projeto
+	- PWA
+2ª aula - Utilizando elementos nativos (câmera, geolocalização)
+
+3ª aula - Introdução a aplicativos híbridos
+3ª aula - Introdução ao Ionic
+3ª aula - Introdução ao Angular
+
+4ª aula - Publicação da playstore
+4ª aula - Publicando um PWA
+4ª aula - Gerando APK Ionic e publicando
+4ª aula - Encerramento
